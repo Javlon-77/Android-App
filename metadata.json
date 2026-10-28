@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria",
+  "description": "High-fidelity open world sandbox RPG with dynamic NPCs, quests, freeform building, crafting, player economy, multiplayer co-op, and modding tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
